@@ -1,0 +1,36 @@
+Classical Electron Radius                                  ,2.817 940 3227 e-15, m,0.000 000 0019 e-15     
+Electron Charge To Mass Quotient                           ,-1.758 820 024 e11, C kg^-1,0.000 000 011 e11       
+Electron-deuteron Mag. Mom. Ratio                          ,-2143.923 499, ,0.000 012               
+Electron-deuteron Mass Ratio                               ,2.724 437 107 484 e-4, ,0.000 000 000 096 e-4   
+Electron G Factor                                          ,-2.002 319 304 361 82, ,0.000 000 000 000 52    
+Electron Gyromag. Ratio                                    ,1.760 859 644 e11, s^-1 T^-1,0.000 000 011 e11       
+Electron Gyromag. Ratio Over 2 Pi                          ,28 024.951 64, MHz T^-1,0.000 17                
+Electron-helion Mass Ratio                                 ,1.819 543 074 854 e-4, ,0.000 000 000 088 e-4   
+Electron Mag. Mom.                                         ,-928.476 4620 e-26, J T^-1,0.000 0057 e-26         
+Electron Mag. Mom. Anomaly                                 ,1.159 652 180 91 e-3, ,0.000 000 000 26 e-3    
+Electron Mag. Mom. To Bohr Magneton Ratio                  ,-1.001 159 652 180 91, ,0.000 000 000 000 26    
+Electron Mag. Mom. To Nuclear Magneton Ratio               ,-1838.281 972 34, ,0.000 000 17            
+Electron Mass                                              ,9.109 383 56 e-31, kg,0.000 000 11 e-31       
+Electron Mass Energy Equivalent                            ,8.187 105 65 e-14, J,0.000 000 10 e-14       
+Electron Mass Energy Equivalent In Mev                     ,0.510 998 9461, MeV,0.000 000 0031          
+Electron Mass In U                                         ,5.485 799 090 70 e-4, u,0.000 000 000 16 e-4    
+Electron Molar Mass                                        ,5.485 799 090 70 e-7, kg mol^-1,0.000 000 000 16 e-7    
+Electron-muon Mag. Mom. Ratio                              ,206.766 9880, ,0.000 0046              
+Electron-muon Mass Ratio                                   ,4.836 331 70 e-3, ,0.000 000 11 e-3        
+Electron-neutron Mag. Mom. Ratio                           ,960.920 50, ,0.000 23                
+Electron-neutron Mass Ratio                                ,5.438 673 4428 e-4, ,0.000 000 0027 e-4      
+Electron-proton Mag. Mom. Ratio                            ,-658.210 6866, ,0.000 0020              
+Electron-proton Mass Ratio                                 ,5.446 170 213 52 e-4, ,0.000 000 000 52 e-4    
+Electron-tau Mass Ratio                                    ,2.875 92 e-4, ,0.000 26 e-4            
+Electron To Alpha Particle Mass Ratio                      ,1.370 933 554 798 e-4, ,0.000 000 000 045 e-4   
+Electron To Shielded Helion Mag. Mom. Ratio                ,864.058 257, ,0.000 010               
+Electron To Shielded Proton Mag. Mom. Ratio                ,-658.227 5971, ,0.000 0072              
+Electron-triton Mass Ratio                                 ,1.819 200 062 203 e-4, ,0.000 000 000 084 e-4   
+Electron Volt                                              ,1.602 176 6208 e-19, J,0.000 000 0098 e-19     
+Electron Volt-atomic Mass Unit Relationship                ,1.073 544 1105 e-9, u,0.000 000 0066 e-9      
+Electron Volt-hartree Relationship                         ,3.674 932 248 e-2, E_h,0.000 000 023 e-2       
+Electron Volt-hertz Relationship                           ,2.417 989 262 e14, Hz,0.000 000 015 e14       
+Electron Volt-inverse Meter Relationship                   ,8.065 544 005 e5, m^-1,0.000 000 050 e5        
+Electron Volt-joule Relationship                           ,1.602 176 6208 e-19, J,0.000 000 0098 e-19     
+Electron Volt-kelvin Relationship                          ,1.160 452 21 e4, K,0.000 000 67 e4         
+Electron Volt-kilogram Relationship                        ,1.782 661 907 e-36, kg,0.000 000 011 e-36      
