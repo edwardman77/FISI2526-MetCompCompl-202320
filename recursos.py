@@ -134,7 +134,20 @@ def masa(f,n,a,b,c,d):
     I = I* (b-a)/2 * (d-c)/2
     return I
 
-f = lambda x,y: x+2*y**2 
-    
 
-print(masa(f,5,1,3,1,4))
+def cm(f1,n,a,b,c,d):
+    raices = GetAllRootsGLeg(n)
+    pesos = GetWeightsGLeg(n)
+    mas = masa(f1,n,a,b,c,d)
+    f = lambda x,y: x*f1(x,y)
+    I = 0
+
+    for i in range(n):
+        for j in range(n):
+            I += pesos[i]*pesos[j]*f(raices[i]*(b-a)/2 + (b+a)/2, raices[j]*(d-c)/2 + (c+d)/2)  
+    I = I* (b-a)/2 * (d-c)/2
+    return I*1/mas
+
+f = lambda x,y: x+2*y**2 
+
+print(cm(f,5,1,3,1,4))
